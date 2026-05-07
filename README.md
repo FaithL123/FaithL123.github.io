@@ -26,6 +26,7 @@
  <br><br>
 <a href="https://www.linkedin.com/in/lim-yuen-yuen-faith" class="button-link">LinkedIn</a>
 <a href="https://github.com/FaithL123" class="button-link">GitHub</a>
+<a href="tel:+6580859144" class="button-link">📞 +65 8085 9144</a>
 
 ---
 
