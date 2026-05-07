@@ -1,3 +1,17 @@
+<style>
+    /* Make your main name a nice tech blue */
+    h1 {
+        color: #0078D4; 
+    }
+
+    /* Add a blue accent line to your section headers like 'About Me' and 'Skills' */
+    h2 {
+        border-left: 5px solid #0078D4;
+        padding-left: 10px;
+        color: #333333;
+    }
+</style>
+
 # Faith Lim Yuen Yuen
 📍 Singapore | ✉️ waytochrist200820@gmail.com
 🔗 www.linkedin.com/in/lim-yuen-yuen-faith | 🐙 https://github.com/FaithL123
