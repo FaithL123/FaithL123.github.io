@@ -42,13 +42,10 @@ I am a Cloud DevOps Engineer who combines a practical, "learning by doing" techn
 ---
 
 ## Experience
-
 **Cloud DevOps Engineer in Training** | *Generation Singapore & Temasek* | Mar 2026 - Jun 2026
 * Completed an intensive bootcamp focusing on cloud architecture, system administration, and CI/CD automation.
-
 **Sales Coordinator** | *TME Systems Pte Ltd* | Jun 2022 - Oct 2025
 * Managed complex sales orders and coordinated cross-functional logistics.
-
 **Patient Service Officer** | *Raffles Hospital Pte Ltd/Women and Fertility Clinic* | Aug 2016 - Jun 2019
 * Provided front-line troubleshooting, triaging, and high-stakes communication.
 
