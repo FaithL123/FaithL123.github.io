@@ -18,6 +18,7 @@
     margin-right: 8px; 
   }
 </style>
+<img src="pic-for-portfolio.jpg" width="150" style="border-radius: 50%; float: right; margin-left: 20px; border: 3px solid #0078D4;">
 
 
 # Faith Lim Yuen Yuen
