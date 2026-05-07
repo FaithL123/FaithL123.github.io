@@ -69,3 +69,4 @@ I am a Cloud DevOps Engineer who combines a practical, "learning by doing" techn
 * **Description:** Configured an automated pipeline to build and push Docker images, troubleshooting duplicate build triggers to ensure efficient deployments.
 * **Tech Stack:** Azure Pipelines, YAML, Docker.
 * **Source Code:** Hosted privately on Azure Repos (demonstrated YAML CI/CD automation and service connections).
+* ![Azure Pipeline Success](pipeline-success.jpg)
