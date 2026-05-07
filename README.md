@@ -55,6 +55,7 @@ I am a Cloud DevOps Engineer who combines a practical, "learning by doing" techn
 ## Projects
 ### 1. Multi-Container Web Application
 * **Description:** Built and deployed a containerized web application to demonstrate orchestration and database integration.
+* ![Docker Desktop Screenshot](docker-setup.jpg)
 * **Tech Stack:** Docker Compose, Flask, MySQL.
 * **Code Preview:** `docker-compose up -d --build`
 * **Source Code:** Hosted privately on Azure Repos (demonstrated full container orchestration).
