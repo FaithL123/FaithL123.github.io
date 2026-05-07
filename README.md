@@ -1,20 +1,30 @@
-<style>
-    /* Make your main name a nice tech blue */
-    h1 {
-        color: #0078D4; 
-    }
-
-    /* Add a blue accent line to your section headers like 'About Me' and 'Skills' */
-    h2 {
-        border-left: 5px solid #0078D4;
-        padding-left: 10px;
-        color: #333333;
-    }
+<style> 
+  h1 { 
+    color: #0078D4; 
+  } 
+  h2 { 
+    border-left: 5px solid #0078D4; 
+    padding-left: 10px; 
+    color: #333333; 
+  } 
+  .button-link {
+    background-color: #0078D4;
+    color: white !important; 
+    padding: 6px 14px;
+    text-decoration: none;
+    border-radius: 20px; 
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 8px; 
+  }
 </style>
+
 
 # Faith Lim Yuen Yuen
 📍 Singapore | ✉️ waytochrist200820@gmail.com
-🔗 www.linkedin.com/in/lim-yuen-yuen-faith | 🐙 https://github.com/FaithL123
+ <br><br>
+<a href="https://www.linkedin.com/in/lim-yuen-yuen-faith" class="button-link">LinkedIn</a>
+<a href="https://github.com/FaithL123" class="button-link">GitHub</a>
 
 ---
 
@@ -28,7 +38,7 @@ I am a Cloud DevOps Engineer who combines a practical, "learning by doing" techn
 * **Scripting & Automation:** Python, Bash
 * **Containerization:** Docker, Docker Compose
 * **Cloud Platforms:** Microsoft Azure (Networking, Storage, CI/CD with Azure Pipelines)
-
+  
 ---
 
 ## Experience
@@ -43,9 +53,7 @@ I am a Cloud DevOps Engineer who combines a practical, "learning by doing" techn
 * Provided front-line troubleshooting, triaging, and high-stakes communication.
 
 ---
-
 ## Projects
-
 ### 1. Multi-Container Web Application
 * **Description:** Built and deployed a containerized web application to demonstrate orchestration and database integration.
 * **Tech Stack:** Docker Compose, Flask, MySQL.
